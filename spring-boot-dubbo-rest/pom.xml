@@ -11,6 +11,12 @@
 
     <groupId>com.github.vspro</groupId>
     <artifactId>spring-boot-dubbo-rest</artifactId>
+    <packaging>pom</packaging>
+    <modules>
+        <module>boot-dubbo-rest-api</module>
+        <module>boot-dubbo-rest-consumer</module>
+        <module>boot-dubbo-rest-provider</module>
+    </modules>
 
 
 </project>
