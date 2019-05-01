@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: boot-dubbo-zkconfig-provider
+  cloud:
+    zookeeper:
+      enabled: true
+      connect-string: localhost:2181
+      config:
+        root: /config/dev
+        enabled: true
+        watcher:
+          enabled: true

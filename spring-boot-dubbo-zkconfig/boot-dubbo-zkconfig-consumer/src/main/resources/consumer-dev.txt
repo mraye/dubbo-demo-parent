@@ -1,0 +1,10 @@
+/config/dev/boot-dubbo-zkconfig-consumer,dev=server.port=8081
+/config/dev/boot-dubbo-zkconfig-consumer,dev=dubbo.application.name=dubbo-consumer
+/config/dev/boot-dubbo-zkconfig-consumer,dev=dubbo.registry.address=zookeeper://127.0.0.1:2181
+/config/dev/boot-dubbo-zkconfig-consumer,dev=dubbo.protocols.dubbo.name=dubbo
+/config/dev/boot-dubbo-zkconfig-consumer,dev=dubbo.protocols.dubbo.port=-1
+/config/dev/boot-dubbo-zkconfig-consumer,dev=dubbo.protocols.dubbo.server=netty
+/config/dev/boot-dubbo-zkconfig-consumer,dev=dubbo.protocols.rest.name=rest
+/config/dev/boot-dubbo-zkconfig-consumer,dev=dubbo.protocols.rest.port=8889
+/config/dev/boot-dubbo-zkconfig-consumer,dev=dubbo.protocols.rest.server=netty
+

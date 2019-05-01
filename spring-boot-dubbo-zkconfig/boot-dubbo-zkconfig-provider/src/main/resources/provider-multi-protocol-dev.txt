@@ -1,0 +1,12 @@
+/config/dev/boot-dubbo-zkconfig-provider,dev=server.port=8080
+/config/dev/boot-dubbo-zkconfig-provider,dev=dubbo.application.name=dubbo-provider
+/config/dev/boot-dubbo-zkconfig-provider,dev=dubbo.registry.address=zookeeper://127.0.0.1:2181
+/config/dev/boot-dubbo-zkconfig-provider,dev=dubbo.protocols.dubbo.name=dubbo
+/config/dev/boot-dubbo-zkconfig-provider,dev=dubbo.protocols.dubbo.port=-1
+/config/dev/boot-dubbo-zkconfig-provider,dev=dubbo.protocols.dubbo.server=netty
+/config/dev/boot-dubbo-zkconfig-provider,dev=dubbo.protocols.rest.name=rest
+/config/dev/boot-dubbo-zkconfig-provider,dev=dubbo.protocols.rest.port=8888
+/config/dev/boot-dubbo-zkconfig-provider,dev=dubbo.protocols.rest.server=netty
+/config/dev/boot-dubbo-zkconfig-provider,dev=wechat.oauth2.appId=appId
+/config/dev/boot-dubbo-zkconfig-provider,dev=wechat.oauth2.appSecret=1234
+
