@@ -87,3 +87,4 @@ fabric.properties
 .gitignore
 .idea/sonarlint/
 
+.idea/
